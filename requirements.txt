@@ -1,0 +1,6 @@
+opencv-python
+torch
+torchvision
+ultralytics
+moviepy==1.0.3
+numpy
